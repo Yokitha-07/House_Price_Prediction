@@ -43,7 +43,7 @@ This project demonstrates the complete workflow: **data preprocessing → explor
 ## ⚙️ Installation
 #1. Clone the repository:
    ```bash
-   git clone https://github.com/Yokitha-07/house_Price_Prediction
+   git clone https://github.com/Yokitha-07/House_Price_Prediction.git
 
 #2. Navigate to the project directory:
 cd housing-price-prediction
