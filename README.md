@@ -41,49 +41,50 @@ This project demonstrates the complete workflow: **data preprocessing → explor
 ---
 
 ## ⚙️ Installation
-1. Clone the repository:
+#1. Clone the repository:
    ```bash
-   git clone https://github.com/Yokitha-07/housing-price-prediction.git
+   git clone https://github.com/Yokitha-07/house_Price_Prediction
 
-2. Navigate to the project directory:
+#2. Navigate to the project directory:
 cd housing-price-prediction
 
-3. Install dependencies:
+#3. Install dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 🚀 Usage
 
-Place the dataset file Housing.csv in the project directory.
+#1. Place the dataset file Housing.csv in the project directory.
 
-#Run the script:
+#2. Run the script:
 
 python housing_price_prediction.py
 
 
-The script will:
+#3. The script will:
 
-- 'Preprocess the data'
+- Preprocess the data
 
-- 'Display correlation heatmap & histograms'
+- Display correlation heatmap & histograms
 
-- 'Train a Linear Regression model'
+- Train a Linear Regression model
 
-#Output the model’s R² score (accuracy)
-📈 Example Output
+- Output the model’s R² score (accuracy)
+  
+#📈 Example Output
 
-Correlation Heatmap:
+- Correlation Heatmap:
 
 
-#R² Score Example:
+- R² Score Example:
 
 Model Accuracy (R²): 84.25%
 
 #🔮 Future Improvements
 
-- 'Try other algorithms (Random Forest, Gradient Boosting).'
+- Try other algorithms (Random Forest, Gradient Boosting).
 
-- 'Apply cross-validation for more robust evaluation.'
+- Apply cross-validation for more robust evaluation.
 
-- 'Tune hyperparameters for better performance.'
+- Tune hyperparameters for better performance.'
 
-- 'Deploy as a web app using Flask or Streamlit.'
+- Deploy as a web app using Flask or Streamlit.
