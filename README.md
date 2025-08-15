@@ -55,35 +55,35 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Place the dataset file Housing.csv in the project directory.
 
-Run the script:
+#Run the script:
 
 python housing_price_prediction.py
 
 
 The script will:
 
-Preprocess the data
+- 'Preprocess the data'
 
-Display correlation heatmap & histograms
+- 'Display correlation heatmap & histograms'
 
-Train a Linear Regression model
+- 'Train a Linear Regression model'
 
-Output the model’s R² score (accuracy)
+#Output the model’s R² score (accuracy)
 📈 Example Output
 
 Correlation Heatmap:
 
 
-R² Score Example:
+#R² Score Example:
 
 Model Accuracy (R²): 84.25%
 
-🔮 Future Improvements
+#🔮 Future Improvements
 
-Try other algorithms (Random Forest, Gradient Boosting).
+- 'Try other algorithms (Random Forest, Gradient Boosting).'
 
-Apply cross-validation for more robust evaluation.
+- 'Apply cross-validation for more robust evaluation.'
 
-Tune hyperparameters for better performance.
+- 'Tune hyperparameters for better performance.'
 
-Deploy as a web app using Flask or Streamlit.
+- 'Deploy as a web app using Flask or Streamlit.'
